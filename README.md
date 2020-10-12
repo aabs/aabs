@@ -1,16 +1,17 @@
 # Andrew Matthews ![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)
 
-Hello and welcome!  This page contains some of the public things I have been working on recently.
+Hello and welcome!  This page contains some of the public things I have been working on.
 
-I spend a lot of my spare time messing about with: 
+I spend a lot of my spare time (such as it is...) messing about with: 
 
 - DSLs and Programming languages
-- labour saving utilities in Fish shell
+- labour saving utilities for Fish shell
 - Semantic Web Utilities
+- Experiments in AI/Comp Sci
 
-Ask me about semantic web and how it can help you
+Ask me about Semantic Web and Knowledge Graphs to find out how it can help you!
 
-To reach me: DM me at @aabs ![Twitter Follow](https://img.shields.io/twitter/follow/aabs?style=social)
+DM me at `@aabs` ![Twitter Follow](https://img.shields.io/twitter/follow/aabs?style=social)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)
 
