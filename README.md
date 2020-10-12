@@ -13,7 +13,7 @@ Ask me about Semantic Web and Knowledge Graphs to find out how it can help you!
 
 DM me at `@aabs` ![Twitter Follow](https://img.shields.io/twitter/follow/aabs?style=social)
 
-![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)
+<!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
 
 ## Semantic web and knowledge graphs
 - [An inference engine using SPARQL for RDFS and OWL2](https://github.com/aabs/inference-engine)
