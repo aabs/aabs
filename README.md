@@ -1,8 +1,7 @@
 # Andrew Matthews 
 ![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social)
 
-Hello and welcome!  This page contains some of the public things I have been working on.
-
+This page contains some of the public things I have been working on.
 I spend a lot of my spare time (such as it is...) messing about with: 
 
 - DSLs and Programming languages
