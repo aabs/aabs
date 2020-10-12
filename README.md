@@ -15,20 +15,16 @@ DM me at `@aabs` ![Twitter Follow](https://img.shields.io/twitter/follow/aabs?st
 
 ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)
 
-## Some Github repos for my projects
-
-### Semantic web and knowledge graphs
+## Semantic web and knowledge graphs
 - [An inference engine using SPARQL for RDFS and OWL2](https://github.com/aabs/inference-engine)
 - [A CLI app to apply SPARQL migrations to a remote RDF Graph](https://github.com/aabs/Sparql.Migrator)
 - [A LINQ Query Provider for RDF using SPARQL](https://github.com/aabs/LinqToRdf)
 - [OWL 2 Turtle syntax VS Code snippets](https://github.com/aabs/vscode-snippets)
-
-### DSLs and languages
+## DSLs and languages
 - [The Fifth Programming Language.](https://github.com/aabs/fifthlang_dotnet)
 - [Coco/R compiler generator for Docker.](https://github.com/aabs/cocor-build-tools)
 - [A modelling language to describe architectures](https://github.com/aabs/March)
-
-### Fish shell plugins and utilities
+## Fish shell plugins and utilities
 - [A skeleton plugin for fisher fish shell plugin manager.](https://github.com/aabs/fisher-plugin)
 - [The Fishdots base plugin.](https://github.com/aabs/fishdots2)
 - [A fish plugin for creating and working with checklists](https://github.com/aabs/fish_checklists)
@@ -37,8 +33,7 @@ DM me at `@aabs` ![Twitter Follow](https://img.shields.io/twitter/follow/aabs?st
 - [A fish plugin for those that work on many projects at the same time (from aabs/fishdots_projects)](https://github.com/aabs/fish_projects)
 - [A fish plugin to quickly jump to tech specific folders in a dev tree.](https://github.com/aabs/fish_tech)
 - [A fish plugin for working with tmux](https://github.com/aabs/fish_tmux)
-
-### Experiments and other stuff
+## Experiments and other stuff
 - [A packer/ansible build system to create a hardened centos VM image suitable for secure use](https://github.com/aabs/centos-base)
 - [A CLI tool for creating multi-output decision trees - as described by Knuth in TAOCP (vol 4)](https://github.com/aabs/DecisionTree)
 - [a library for generalised Petri Nets in C#](https://github.com/aabs/PetriNets)
@@ -49,8 +44,7 @@ DM me at `@aabs` ![Twitter Follow](https://img.shields.io/twitter/follow/aabs?st
 - [Pandoc template for writing letters in markdown](https://github.com/aabs/pandoc-letter)
 - [a little prototype for rendering the weather as a meteogram](https://github.com/aabs/meteogram)
 
-
-### AI code in Python
+## AI code in Python
 
 - [Sentiment predictions on IMDB reviews.](https://github.com/aabs/edx-ai-week11-project)
 - [Generalised 8-puzzle game](https://github.com/aabs/edx-ai-week2-project)
