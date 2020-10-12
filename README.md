@@ -13,16 +13,18 @@ Ask me about Semantic Web and Knowledge Graphs to find out how they can help you
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
 
-## Semantic web and knowledge graphs
+## Semantic Web and Knowledge Graphs
 - [An inference engine using SPARQL for RDFS and OWL2](https://github.com/aabs/inference-engine)
 - [A CLI app to apply SPARQL migrations to a remote RDF Graph](https://github.com/aabs/Sparql.Migrator)
 - [A LINQ Query Provider for RDF using SPARQL](https://github.com/aabs/LinqToRdf)
 - [OWL 2 Turtle syntax VS Code snippets](https://github.com/aabs/vscode-snippets)
-## DSLs and languages
+
+## DSLs and language tools
 - [The Fifth Programming Language.](https://github.com/aabs/fifthlang_dotnet)
 - [Coco/R compiler generator for Docker.](https://github.com/aabs/cocor-build-tools)
 - [A modelling language to describe architectures](https://github.com/aabs/March)
-## Fish shell plugins and utilities
+
+## Fish Shell plugins and utilities
 - [A skeleton plugin for fisher fish shell plugin manager.](https://github.com/aabs/fisher-plugin)
 - [The Fishdots base plugin.](https://github.com/aabs/fishdots2)
 - [A fish plugin for creating and working with checklists](https://github.com/aabs/fish_checklists)
@@ -31,6 +33,7 @@ Ask me about Semantic Web and Knowledge Graphs to find out how they can help you
 - [A fish plugin for those that work on many projects at the same time (from aabs/fishdots_projects)](https://github.com/aabs/fish_projects)
 - [A fish plugin to quickly jump to tech specific folders in a dev tree.](https://github.com/aabs/fish_tech)
 - [A fish plugin for working with tmux](https://github.com/aabs/fish_tmux)
+
 ## Experiments and other stuff
 - [A packer/ansible build system to create a hardened centos VM image suitable for secure use](https://github.com/aabs/centos-base)
 - [A CLI tool for creating multi-output decision trees - as described by Knuth in TAOCP (vol 4)](https://github.com/aabs/DecisionTree)
