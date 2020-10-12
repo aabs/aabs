@@ -25,7 +25,7 @@ Ask me about Semantic Web and Knowledge Graphs to find out how they can help you
 - [A modelling language to describe architectures](https://github.com/aabs/March)
 
 ## Fish Shell plugins and utilities
-- [A skeleton plugin for fisher fish shell plugin manager.](https://github.com/aabs/fisher-plugin)
+- [A skeleton plugin for fisher Fish Shell plugin manager.](https://github.com/aabs/fisher-plugin)
 - [The Fishdots base plugin.](https://github.com/aabs/fishdots2)
 - [A fish plugin for creating and working with checklists](https://github.com/aabs/fish_checklists)
 - [A fish plugin for working with git abbrs and functions](https://github.com/aabs/fish_git)
@@ -37,18 +37,18 @@ Ask me about Semantic Web and Knowledge Graphs to find out how they can help you
 ## Experiments and other stuff
 - [A packer/ansible build system to create a hardened centos VM image suitable for secure use](https://github.com/aabs/centos-base)
 - [A CLI tool for creating multi-output decision trees - as described by Knuth in TAOCP (vol 4)](https://github.com/aabs/DecisionTree)
-- [a library for generalised Petri Nets in C#](https://github.com/aabs/PetriNets)
+- [A library for generalised Petri Nets in C#](https://github.com/aabs/PetriNets)
 - [Erlang/OTP compatible Petri Net library.](https://github.com/aabs/gen_pn)
 - [A .NET windows service to auto-commit changes to a local GIT repo](https://github.com/aabs/NBake)
-- [import activity logs into DayOne using the DayOne CLI tools.](https://github.com/aabs/nday)
-- [neosnippets with Turtle snippets](https://github.com/aabs/neosnippet-snippets)
+- [Import activity logs into DayOne using the DayOne CLI tools.](https://github.com/aabs/nday)
+- [VIM Neosnippets with Turtle snippets](https://github.com/aabs/neosnippet-snippets)
 - [Pandoc template for writing letters in markdown](https://github.com/aabs/pandoc-letter)
-- [a little prototype for rendering the weather as a meteogram](https://github.com/aabs/meteogram)
+- [Meteogram weather data charts](https://github.com/aabs/meteogram)
 
 ## AI code in Python
 
 - [Sentiment predictions on IMDB reviews.](https://github.com/aabs/edx-ai-week11-project)
 - [Generalised 8-puzzle game](https://github.com/aabs/edx-ai-week2-project)
 - [The 2048 game](https://github.com/aabs/edx-ai-week4-project)
-- [perceptron, linear regression and classification](https://github.com/aabs/edx-ai-week7-project)
+- [Perceptron, linear regression and classification](https://github.com/aabs/edx-ai-week7-project)
 - [Sudoku Solver](https://github.com/aabs/edx-ai-week9-project)
