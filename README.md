@@ -7,3 +7,43 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)
 
+## Some of the stuff I'm currently playing with
+
+- [The Fifth Programming Language.](https://github.com/aabs/fifthlang)
+- [A small domain specific language for manipulating knowledge graphs using RDF.](https://github.com/aabs/fifthlang_dotnet)
+- [A simple inference engine using SPARQL to materialise inferences for RDFS and OWL2](https://github.com/aabs/inference-engine)
+- [simple CLI app to control the application of SPARQL migrations to a remote RDF Graph](https://github.com/aabs/Sparql.Migrator)
+- [A new version of fishdots rewritten from the ground up.  Supports basic dotfile loading, plus logging etc in support of my other plugins.](https://github.com/aabs/fishdots2)
+- [A simple IAC build system to establish a centos VM image suitable for secure use](https://github.com/aabs/centos-base)
+- [A docker image for building C# parsers and scanners with the Coco/R compiler generator.](https://github.com/aabs/cocor-build-tools)
+- [A simple tool for the creation of multi-output decision trees, as described by Knuth in TAOCP (vol 4)](https://github.com/aabs/DecisionTree)
+- [Erlang/OTP compatible petri net library. Beware - I'm a total Erlang n00b, so this will take a long time to mature.](https://github.com/aabs/gen_pn)
+- [A LINQ Query Provider for RDF using SPARQL](https://github.com/aabs/LinqToRdf)
+- [A modelling language to describe architectures](https://github.com/aabs/March)
+- [a little prototype for rendering the weather as a meteogram](https://github.com/aabs/meteogram)
+- [A simple .NET based windows service to auto-commit file changes to a local GIT repo](https://github.com/aabs/NBake)
+- [imports activity logs into DayOne using the DayOne CLI tools. Inspired by Sifttter and Slogger.](https://github.com/aabs/nday)
+- [The standard snippets repository for neosnippet](https://github.com/aabs/neosnippet-snippets)
+- [Pandoc template for writing letters in markdown](https://github.com/aabs/pandoc-letter)
+- [a library to implement generalised petri nets in C#](https://github.com/aabs/PetriNets)
+- [OWL 2 Turtle syntax VS Code snippets for all common idioms mentioned in OWL2 Reference Card](https://github.com/aabs/vscode-snippets)
+
+
+## Some old things
+
+- [A simple skeleton plugin compatible with fisher for fish shell.](https://github.com/aabs/fisher-plugin)
+- [A fish plugin supporting production of event based checklists](https://github.com/aabs/fish_checklists)
+- [Simple fish plugin with some helpful git abbrs and functions](https://github.com/aabs/fish_git)
+- [fish plugin for managing text notes](https://github.com/aabs/fish_notes)
+- [A simple project utility for those that work on many projects at the same time (from aabs/fishdots_projects)](https://github.com/aabs/fish_projects)
+- [Fish shell plugin providing functions to set up multi-level commands (like git)](https://github.com/aabs/fish_subcmd)
+- [A plugin for fish shell to quickly jump to tech specific folders in a dev tree.](https://github.com/aabs/fish_tech)
+- [A simple fish plugin with tmux helpers](https://github.com/aabs/fish_tmux)
+
+## AI code in Python
+
+- [The task in this assignment is to produce sentiment predictions over a collection of IMDB reviews by various text data representation such as unigram, unigram with tf-idf, bigram and bigram with tf-idf.](https://github.com/aabs/edx-ai-week11-project)
+- [Implementation of Week 2 Project of edX ColumbiaX: CSMM.101x Artificial Intelligence (AI)](https://github.com/aabs/edx-ai-week2-project)
+- [minimax and alpha-beta pruning applied to 2048 game](https://github.com/aabs/edx-ai-week4-project)
+- [perceptron, linear regression and classification](https://github.com/aabs/edx-ai-week7-project)
+- [CSP Sudoku Solver](https://github.com/aabs/edx-ai-week9-project)
