@@ -1,4 +1,5 @@
-# Andrew Matthews ![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)
+# Andrew Matthews 
+![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social)
 
 Hello and welcome!  This page contains some of the public things I have been working on.
 
@@ -9,7 +10,7 @@ I spend a lot of my spare time (such as it is...) messing about with:
 - Semantic Web Utilities
 - Experiments in AI/Comp Sci
 
-Ask me about Semantic Web and Knowledge Graphs to find out how it can help you!  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social)
+Ask me about Semantic Web and Knowledge Graphs to find out how it can help you! 
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
 
