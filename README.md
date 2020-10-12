@@ -1,9 +1,9 @@
-## Andrew Matthews
+## Andrew Matthews ![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)
 
 - I’m currently completing the next generation of fishdots which now loads really fast and provides tons of useful functionality
 - I'm tinkering about with a new little language called Fifth that will make working with RDF a lot easier.
 - Ask me about semantic web and how it can help you
-- How to reach me: DM me at @aabs
+- How to reach me: DM me at @aabs ![Twitter Follow](https://img.shields.io/twitter/follow/aabs?style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/aabs?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)
+
