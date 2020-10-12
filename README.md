@@ -9,9 +9,7 @@ I spend a lot of my spare time (such as it is...) messing about with:
 - Semantic Web Utilities
 - Experiments in AI/Comp Sci
 
-Ask me about Semantic Web and Knowledge Graphs to find out how it can help you!
-
-DM me at `@aabs` ![Twitter Follow](https://img.shields.io/twitter/follow/aabs?style=social)
+Ask me about Semantic Web and Knowledge Graphs to find out how it can help you!  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social)
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
 
