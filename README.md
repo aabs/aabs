@@ -5,7 +5,7 @@ This page contains some of the public things I have been working on.
 I spend a lot of my spare time (such as it is...) messing about with: 
 
 - DSLs and Programming languages
-- labour saving utilities for Fish shell
+- Labour saving utilities for Fish shell
 - Semantic Web Utilities
 - Experiments in AI/Comp Sci
 
