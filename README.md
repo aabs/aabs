@@ -1,4 +1,4 @@
-## Andrew Matthews (AABS)
+## Andrew Matthews
 
 - I’m currently completing the next generation of fishdots which now loads really fast and provides tons of useful functionality
 - I'm tinkering about with a new little language called Fifth that will make working with RDF a lot easier.
