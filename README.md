@@ -9,7 +9,7 @@ I spend a lot of my spare time (such as it is...) messing about with:
 - Semantic Web Utilities
 - Experiments in AI/Comp Sci
 
-Ask me about Semantic Web and Knowledge Graphs to find out how they can help you! 
+Ask me about Semantic Web and Knowledge Graphs to find out how they can help you! Alternatively, check out some of my recent blog posts over on my blog [Industrial Inference](http://industrialinference.com)
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
 
