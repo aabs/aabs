@@ -9,11 +9,13 @@ I spend a lot of my spare time (such as it is...) messing about with:
 - Semantic Web Utilities
 - Experiments in AI/Comp Sci
 
-Ask me about Semantic Web and Knowledge Graphs to find out how they can help your project. Alternatively, check out some of my recent blog posts over on my blog [Industrial Inference](http://industrialinference.com)
+Ask me about Semantic Web and Knowledge Graphs to find out how they can help your project. 
+Alternatively, check out some of my recent blog posts over on my blog [Industrial Inference](http://industrial-inference.com)
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
 
 ## DSLs and language tools
+- [ActorSrcGen Source Generator for C# Actor Model](https://github.com/aabs/ActorSrcGen)
 - [The Fifth Programming Language](https://github.com/aabs/fifthlang) ([site](https://fifthlang.org))
 - [Coco/R compiler generator for Docker.](https://github.com/aabs/cocor-build-tools)
 - [A modelling language to describe architectures](https://github.com/aabs/March)
