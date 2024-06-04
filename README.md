@@ -12,6 +12,8 @@ I spend a lot of my spare time (such as it is...) messing about with:
 Ask me about Semantic Web and Knowledge Graphs to find out how they can help your project. 
 Alternatively, check out some of my recent blog posts over on my blog [Industrial Inference](http://industrial-inference.com)
 
+![Metrics](/github-metrics.svg)
+
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
 
 ## DSLs and language tools
