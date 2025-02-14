@@ -1,5 +1,5 @@
 # Andrew Matthews 
-![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social)
+![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social) [![Resume - Full](https://img.shields.io/badge/Resume-Full-2ea44f)](https://github.com/aabs/aabs/blob/master/andrew-matthews-long.pdf)
 
 [Resume w/ Summary Details](andrewmatthews-short.pdf) [Resume w/ Full Details](andrewmatthews-long.pdf)
 
