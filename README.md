@@ -1,16 +1,14 @@
 # Andrew Matthews 
 ![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social) [![Resume - Full](https://img.shields.io/badge/Resume-Full-2ea44f)](https://github.com/aabs/aabs/blob/master/andrew-matthews-long.pdf) [![Resume - Summary](https://img.shields.io/badge/Resume-Summary-2ea44f)](https://github.com/aabs/aabs/blob/master/andrew-matthews-short.pdf)
 
-This page contains some of the public things I have been working on.
-I spend a lot of my spare time (such as it is...) messing about with: 
+Welcome to my GitHub profile! Here, you'll find a collection of my public projects and experiments. In my spare time, I love diving into:
 
-- DSLs and Programming languages
-- Labour saving utilities for Fish shell
-- Semantic Web Utilities
-- Experiments in AI/Comp Sci
+- Designing and exploring DSLs and programming languages
+- Creating handy CLI utilities
+- Developing tools for Knowledge Graphs
+- Conducting AI and computer science experiments
 
-Ask me about Semantic Web and Knowledge Graphs to find out how they can help your project. 
-Alternatively, check out some of my recent blog posts over on my blog [Industrial Inference](http://industrial-inference.com)
+Curious about how Knowledge Graphs can benefit your project? Feel free to ask! You can also check out my latest insights and discoveries on my blog, [The Wandering Glitch](https://aabs.wordpress.com). Let's connect and tinker with tech together!
 
 ![Metrics](/github-metrics.svg)
 
