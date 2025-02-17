@@ -96,7 +96,7 @@ I am an experienced and versatile software engineer and technical leader special
 #interlude_section( [Experience], 20cm, [
 #interlude([Principal Engineer], [AGL], [Melbourne, AU], [2020 - Present], [
 
-Working on #link("https://bit.ly/3Mov35v")[NEO project] one of the world's first and largest Virtual Power Plants (VPP).
+Working with AGL on the #link("https://bit.ly/3Mov35v")[NEO project], one of the world's first and largest Virtual Power Plants (VPP).
   
 - *Engineered high-reliability ingestion systems* for PV and battery vendors, including Tesla, SolarEdge, and Sungrow, ensuring seamless data flow for energy dispatch and grid stabilization.
 
@@ -112,7 +112,7 @@ Working on #link("https://bit.ly/3Mov35v")[NEO project] one of the world's first
 
 
 
-*Technologies Used*: C\# 9/10/11, Python 3, Go 1.18, .NET 5/6/7/8, Azure Kubernetes Service (AKS), Docker, Azure Functions, Service Bus, Event Hubs, Azure Data Explorer (ADX), CosmosDB, Kusto, Terraform, GraphQL, ANTLR4
+*Technologies Used*: C\# 9-12, .NET 5-9, Python 3, Go 1.18, Azure Kubernetes Service (AKS), Docker, Azure Functions, Service Bus, Event Hubs, Azure Data Explorer (ADX), CosmosDB, Kusto, Terraform, GraphQL, ANTLR4
 
 ])
 
@@ -128,7 +128,6 @@ Working with the Telstra TLive Team on Knowledge Graphs & Network Intelligence.
 - *Built microservices for infrastructure tagging and search*, enabling faster asset discovery and operational insights.  
 - *Developed an advanced query system* for petabyte-scale telemetry data, accelerating performance analysis and decision-making.  
 - *Extended PromQL query parser for enriched telemetry dashboards*, improving real-time data insights for network health monitoring.  
-
 
 
 
