@@ -11,6 +11,9 @@ Welcome to my GitHub profile! Here, you'll find a collection of my public projec
 Curious about how Knowledge Graphs can benefit your project? Feel free to ask! You can also check out my latest insights and discoveries on my blog, [The Wandering Glitch](https://aabs.wordpress.com). Let's connect and tinker with tech together!
 
 ![Metrics](/github-metrics.svg)
+![achievements](/metrics.plugin.achievements.compact.svg)
+![stars](/metrics.plugin.stars.svg)
+![calendar](/metrics.plugin.calendar.full.svg)
 
 <!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
 
