@@ -51,4 +51,6 @@ jobs:
           config_timezone: Australia/Melbourne
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_analysis_timeout: 15
 
