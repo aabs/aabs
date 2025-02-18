@@ -10,13 +10,16 @@ Welcome to my GitHub profile! Here, you'll find a collection of my public projec
 
 Curious about how Knowledge Graphs can benefit your project? Feel free to ask! You can also check out my latest insights and discoveries on my blog, [The Wandering Glitch](https://aabs.wordpress.com). Let's connect and tinker with tech together!
 
-![Metrics](/github-metrics.svg)
-![achievements](/metrics.plugin.achievements.compact.svg)
-![stars](/metrics.plugin.stars.svg)
-![calendar](/metrics.plugin.calendar.full.svg)
+<details open>
+  <summary>Stats and Metrics</summary>
+  ![Metrics](/github-metrics.svg)
+  ![achievements](/metrics.plugin.achievements.compact.svg)
+  ![stars](/metrics.plugin.stars.svg)
+  ![calendar](/metrics.plugin.calendar.full.svg)
+</details>
 
-<!-- ![GitHub User's stars](https://img.shields.io/github/stars/aabs?style=social)-->
-
+<details>
+  <summary>Some Highlights</summary>
 ## DSLs and language tools
 - [ActorSrcGen Source Generator for C# Actor Model](https://github.com/aabs/ActorSrcGen)
 - [The Fifth Programming Language](https://github.com/aabs/fifthlang) ([site](https://fifthlang.org))
@@ -59,3 +62,4 @@ Curious about how Knowledge Graphs can benefit your project? Feel free to ask! Y
 - [The 2048 game](https://github.com/aabs/edx-ai-week4-project)
 - [Perceptron, linear regression and classification](https://github.com/aabs/edx-ai-week7-project)
 - [Sudoku Solver](https://github.com/aabs/edx-ai-week9-project)
+</details>
