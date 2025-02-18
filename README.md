@@ -13,15 +13,19 @@ Curious about how Knowledge Graphs can benefit your project? Feel free to ask! Y
 <details open>
   <summary>Stats and Metrics</summary>
   
-![Metrics](/github-metrics.svg)
-![achievements](/metrics.plugin.achievements.compact.svg)
-![stars](/metrics.plugin.stars.svg)
-![calendar](/metrics.plugin.calendar.full.svg)
+  ![Metrics](/github-metrics.svg)
+  
+  ![achievements](/metrics.plugin.achievements.compact.svg)
+  
+  ![stars](/metrics.plugin.stars.svg)
+  
+  ![calendar](/metrics.plugin.calendar.full.svg)
 
 </details>
 
 <details>
   <summary>Some Highlights</summary>
+  
 ## DSLs and language tools
 - [ActorSrcGen Source Generator for C# Actor Model](https://github.com/aabs/ActorSrcGen)
 - [The Fifth Programming Language](https://github.com/aabs/fifthlang) ([site](https://fifthlang.org))
