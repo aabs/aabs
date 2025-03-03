@@ -73,7 +73,7 @@ block()[
      #h(1fr) #orgname, _#{dates}_\ #h(1fr) _#{location}_
     ])
   )
-  #par(justify: true)[
+  #block()[
     #set text(size: regularSize, weight: bodyWeight)
     #summary
   ]
@@ -91,8 +91,27 @@ block()[
 
 #cv_section([Summary])
 
-I am an experienced and versatile software engineer and technical leader specializing in fast, scalable and robust cloud-native distributed systems and the use of knowledge graphs and knowledge management.
+Experienced software engineer and technical leader with a strong background in cloud-native distributed systems, scalable architecture, and real-time data processing. Over two decades, I’ve designed mission-critical platforms, optimized complex data pipelines, and driven innovation across energy, telecommunications, and finance. Passionate about solving hard problems and building resilient, high-performance systems.
 
+#interlude_section([At a glance], 2cm, [
+    #columns(3)[
+    - 20+ yrs in Industry
+    - Specialisms: _.NET/C\#, Distributed Cloud-Native Systems, Simulation, Knowledge Graphs & Graph DBs, Systems Programming_
+#colbreak()
+    - Roles: 
+      - _Principal Engineer_, 
+      - _Senior Software Engineer_, 
+      - _Technical Architect_, 
+      - _Application Architect_.
+#colbreak()
+    - Sectors:
+      - _Energy_,
+      - _Telecommunications_,
+      - _Finance & Superannuation_,
+      - _Entertainment_,
+      - _Consulting_.
+  ]
+])
 #interlude_section( [Experience], 20cm, [
 #interlude([Principal Engineer], [AGL], [Melbourne, AU], [2020 - Present], [
 
@@ -402,4 +421,3 @@ Working with Fairfield Telepathology on the PathSight telepathology product, ena
 
 
 *Old Stuff (sometimes handy)*: #text(size: 0.8em)[C, Prolog, Erlang, Elixir, Ada, Eiffel, Fish Shell, Expect, Awk, Sed, Forth, Logo, Scheme, Eiffel, Python, Go, Prolog, C++, Java, JavaScript, AOP, UML, SOA, Petri Nets, Automata]
-
