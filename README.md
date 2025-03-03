@@ -1,5 +1,5 @@
 # Andrew Matthews 
-![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social) [![Resume - Full](https://img.shields.io/badge/Resume-Full-2ea44f)](https://github.com/aabs/aabs/blob/master/AndrewMatthews.2025-02-18.pdf) [![Resume - Summary](https://img.shields.io/badge/Resume-Summary-2ea44f)](https://github.com/aabs/aabs/blob/master/andrew-matthews-short.pdf)
+![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social) [![Resume - Full](https://img.shields.io/badge/Resume-Full-2ea44f)](https://github.com/aabs/aabs/blob/master/AndrewMatthews.2025-03-03.pdf) [![Resume - Summary](https://img.shields.io/badge/Resume-Summary-2ea44f)](https://github.com/aabs/aabs/blob/master/andrew-matthews-short.pdf)
 
 Welcome to my GitHub profile! Here, you'll find a collection of my public projects and experiments. In my spare time, I love diving into:
 
