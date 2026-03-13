@@ -9,7 +9,7 @@ I build practical bridges between .NET software engineering and knowledge repres
 - [A modelling language to describe architectures](https://github.com/aabs/March)
 
 ### Semantic Web and Knowledge Graphs
-- [Prototype Storage Engine for a Triple Store](https://github.com/aabs/PersistentHeap)
+- [Very Fast Storage Engine for a Triple Store](https://github.com/aabs/QuadStore)
 - A series of posts on [Working with Knowledge Graphs](http://industrialinference.com/series/working-with-knowledge-graphs/)
 - [An inference engine using SPARQL for RDFS and OWL2](https://github.com/aabs/inference-engine)
 - [A CLI app to apply SPARQL migrations to a remote RDF Graph](https://github.com/aabs/Sparql.Migrator)
