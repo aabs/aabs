@@ -1,21 +1,4 @@
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/aabs?cardType=level-alternate&preferLogin=false)](https://git.io/awesome-stats-card)
-
-![GitHub followers](https://img.shields.io/github/followers/aabs?style=social)  ![@aabs](https://img.shields.io/twitter/follow/aabs?style=social) [![Resume - Full](https://img.shields.io/badge/Resume-Full-2ea44f)](https://github.com/aabs/aabs/blob/master/AndrewMatthews.2025-03-03.pdf) [![Resume - Summary](https://img.shields.io/badge/Resume-Summary-2ea44f)](https://github.com/aabs/aabs/blob/master/andrew-matthews-short.pdf)
-
-Welcome to my GitHub profile! Here, you'll find a collection of my public projects and experiments.
-
-<details>
-  <summary>Stats and Metrics</summary>
-  
-  ![Metrics](/github-metrics.svg)
-  
-  ![achievements](/metrics.plugin.achievements.compact.svg)
-  
-  ![stars](/metrics.plugin.stars.svg)
-  
-  ![calendar](/metrics.plugin.calendar.full.svg)
-
-</details>
+I build practical bridges between .NET software engineering and knowledge representation. My public repos range from a multi‑paradigm language (Fifth) with embedded knowledge graphs, through RDF/SPARQL tools on .NET (inference engine, LINQ‑to‑SPARQL, triple‑store experiments), to a suite of Fish shell plugins that sharpen day‑to‑day dev workflows. You’ll also find formal‑methods‑flavored experiments (Petri nets, decision trees), bite‑sized AI/ML prototypes, and pragmatic ops/dev‑productivity utilities. I’m an advocate for specification‑driven development and curate resources to help teams ship from executable specs. [github.com], [github.com], [github.com]
 
 <details>
   <summary>Some Highlights</summary>
