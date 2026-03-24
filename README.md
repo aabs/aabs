@@ -3,7 +3,7 @@ I build practical bridges between .NET software engineering and knowledge repres
 ## Some Highlights
   
 ### DSLs and language tools
-- [The Fifth Programming Language](https://github.com/aabs/fifthlang) ([site](https://fifthlang.org))
+- [The Fifth Programming Language](https://github.com/aabs/fifthlang) ([site](https://fifth-lang.org))
 - [ActorSrcGen Source Generator for C# Actor Model](https://github.com/aabs/ActorSrcGen)
 - [Coco/R compiler generator for Docker.](https://github.com/aabs/cocor-build-tools)
 - [A modelling language to describe architectures](https://github.com/aabs/March)
